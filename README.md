@@ -1,10 +1,9 @@
-color_mixer
+random_weather
 ============
 
-This program has various functions to determine color combinations and averages for the primary colors.
+This program randomly generates weather and temperature data and exports it into .csv file
 
 What I learned
 ============
-- working with infiles
-- importing databases
-- creating outfiles
+- exporting data into a CSV file
+- working with pandas library
